@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi there, I'm Jan Jurek
 
 🎓 4th-year Acoustic Engineering student at **AGH University of Science and Technology**  
