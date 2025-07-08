@@ -17,7 +17,7 @@
 
 🐍 Python  
 🧠 TensorFlow & PyTorch  
-🧮 MATLAB
+🧮 MATLAB  
 🌱 Currently learning R
 
 ---
