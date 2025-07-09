@@ -7,7 +7,7 @@
 
 ## 💡 About Me
 
-💭 Passionate about **AI**, **Machine Learning**, and **Deep Learning**.  
+💭 Passionate about **AI**, **Machine Learning**, **Deep Learning**, and **Data Science**.  
 🎯 Always eager to learn, experiment and solve real-world problems with data-driven solutions.  
 ✍️ Currently working on my GitHub portfolio
 
