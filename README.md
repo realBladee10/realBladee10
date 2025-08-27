@@ -16,9 +16,9 @@
 ## 🔧 Technologies & Tools
 
 🐍 Python  
-🧠 TensorFlow & PyTorch  
+🧠 TensorFlow, PyTorch, Pandas, Numpy, Scipy & more!  
 🧮 MATLAB  
-🌱 Currently learning R
+  🌱 Currently learning SQL and PowerBI
 
 ---
 
